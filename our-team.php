@@ -23,27 +23,6 @@
 						<p>Luke has a passion for the game server industry and specialises in Multicraft and dedicated setup with a broad knowledge of all areas of the servers Galatic Servers offers. He also manages the day to day running of the business and all incoming orders.</p>
 					</div>
 				</div>
-				<div class="col-md-6">
-					<div class="profile">
-						<img src="img/profile-tyler.png" alt="Tyler Y.">
-						<h3><i>Tyler Y. </i> - Technical Support</h3>
-						<p>Tyler has an advanced knowledge in server management and network setup. Having been with Galactic Servers from the start he know exactly how to make a network work and has gained his position here through his vast experience of support and knowledge.</p>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="profile">
-						<img src="img/profile-andy.png" alt="Andy C.">
-						<h3><i>Andy C. </i> - Vice President</h3>
-						<p>After having many year experience in the marketing and sale industry Andy really know how a business tick. He manages the advertising and marketing of the Galactic Server operations. With the growing demand in the gaming industry Andy is the man for the job.</p>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="profile">
-						<img src="img/profile-luca.png" alt="Luca F.">
-						<h3><i>Luca F. </i> - Support Rep</h3>
-						<p>Luca provides trapshooting support and guidance on primarily Minecraft customers. He became the latest arrive of the Galactic Servers team late last year and has made himself a valuable member of the team, supporting customers through with us at GS.</p>
-					</div>
-				</div>
 			</div>
 
 			<div class="row bannerbtn">
