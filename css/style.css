@@ -7368,7 +7368,8 @@ galacticservers.com/media
 	background:#fff;
 	padding:20px;
 	box-shadow:0 0 20px rgba(0,0,0,0.1);
-	position:relative
+	position:relative;
+	margin-bottom: 25px;
 }
 .mission a
 {
