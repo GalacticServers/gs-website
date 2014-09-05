@@ -16,19 +16,7 @@
         $.type = "text/javascript";
         e.parentNode.insertBefore($, e);
     }(document, "script");
-    (function(w, t, gk, d, s, fs) {
-        if (w[gk]) return;
-        d = w.document;
-        w[gk] = function() {
-            (w[gk]._ = w[gk]._ || []).push(arguments);
-        };
-        s = d.createElement(t);
-        s.async = !0;
-        s.src = "//static.getkudos.me/widget.js";
-        fs = d.getElementsByTagName(t)[0];
-        fs.parentNode.insertBefore(s, fs);
-    })(window, "script", "getkudos");
-    getkudos("create", "GalacticServers");
+    
     $(document).ready(function() {
         var iconBarWidths, tickerGo;
         tickerGo = function() {

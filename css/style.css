@@ -7231,7 +7231,7 @@ galacticservers.com/media
 }
 	#iconbar .icon
 {
-	height:100px;
+	height:80px;
 	display:inline-block;
 	background-position:center center;
 	background-repeat:no-repeat;
@@ -7344,7 +7344,7 @@ galacticservers.com/media
 	right:-50px;
 	width:50px;
 	height:1px;
-	border-bottom:1px solid #0cf
+	/* border-bottom:1px solid #0cf */
 }
 .btn-start p
 {

@@ -1,0 +1,30 @@
+.icon {
+	text-transform: uppercase;
+	color: rgba(128, 128, 128, 0.46);
+	padding-top: 22px;
+	font-size: 15px;
+}
+
+#iconbar2 {
+margin: -20px 0 20px;
+/* background: #fff; */
+border-bottom: 1px solid #e8e8e8;
+}
+.nav2 {
+	background: #fff;
+	padding: 20px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+	position: relative;
+	margin-bottom: 25px;
+	width: 200px;
+}
+
+.nav2 > li > a {
+	position: relative;
+	display: block;
+	padding: 7.5px 15px;
+	margin-left: -23px;
+	margin-right: -23px;
+	text-transform: uppercase;
+	text-align: left;
+}
