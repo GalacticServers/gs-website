@@ -24,7 +24,8 @@
 			</script>
 			
 			<h1>Ready to begin?</h1>
-			{{> servicebtns }}
+			
+            <?php include 'assets/servicebtns.php' ?>
 		</div>
 	</div>
 	<?php include 'assets/footer.php' ?>

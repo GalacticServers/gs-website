@@ -7180,7 +7180,7 @@ galacticservers.com/media
 	#slider
 {
 	background:#000 url('../img/slide1.jpg') center top no-repeat;
-	margin:-20px 0 20px;
+	margin:0px 0 20px;
 	text-align:center;
 	color:#fff;
 	text-transform:uppercase;
@@ -7400,7 +7400,8 @@ galacticservers.com/media
 	text-transform:uppercase;
 	color:#666;
 	line-height:70px;
-	margin-top:30px
+	margin-top:30px;
+	margin-bottom: -70px;
 }
 	footer a
 {

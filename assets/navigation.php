@@ -40,16 +40,16 @@
 			</div>
 			<div class="collapse navbar-collapse" id="js-navcollapse2">
 				<ul class="nav navbar-nav  navbar2-nav navbar-left">
-					<li><a href="//galacticservers.com">WHY GALACTIC</a></li>
-					<li><a href="//galacticservers.com">TESTIMONIES</a></li>
-					<li><a href="//galacticservers.com">ABOUT</a></li>
-					<li><a href="//galacticservers.com">FAQ</a></li>
+					<li><a href="why-galactic">WHY GALACTIC</a></li>
+					<li><a href="testimonies">TESTIMONIES</a></li>
+					<li><a href="about">ABOUT</a></li>
+					<li><a href="faq">FAQ</a></li>
 				</ul>
 				<ul class="nav navbar-nav  navbar2-nav navbar-right">
-					<li><a href="//galacticservers.com">SERVER OWNERS</a></li>
-					<li><a href="//galacticservers.com">NETWORK OWNERS</a></li>
-					<li><a href="//galacticservers.com">WEB PROJECTS</a></li>
-					<li><a href="//galacticservers.com">HOSTING</a></li>
+					<li><a href="//galacticservers.com/minecraft-hosting">SERVER OWNERS</a></li>
+					<li><a href="//galacticservers.com/dedicated-servers">NETWORK OWNERS</a></li>
+					<li><a href="//galacticservers.com/web-hosting">WEB PROJECTS</a></li>
+					<li><a href="//galacticservers.com/help">NEED HELP?</a></li>
 				</ul>
 			</div>
 		</div>
